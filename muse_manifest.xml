@@ -1,0 +1,175 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.worldtechnologyworld.com" resolutions="1x" timestamp="1523325403816">
+  <folder name="css">
+    <file name="site_global.css" crc="3875210652"/>
+    <file name="master_a-p_g_-maestra.css" crc="352627095" ref="servicios:contacto:nosotros:index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3907901986" ref="servicios:contacto:nosotros:index"/>
+    <file name="servicios.css" crc="4105403488" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="4079997295" ref="servicios"/>
+    <file name="contacto.css" crc="533406517" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="3911889323" ref="contacto"/>
+    <file name="nosotros.css" crc="388305512" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="116797153" ref="nosotros"/>
+    <file name="index.css" crc="385978721" ref="index"/>
+    <file name="nomq_index.css" crc="5045219" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="bigvideo.css" crc="277060127" seo="true" mt="1455824803000"/>
+    <file name="bigvideo.js" crc="312077503" seo="true" mt="1455824803000"/>
+    <file name="bigvideo.png" crc="4061820664" seo="true" mt="1455824803000"/>
+    <file name="jquery.imagesloaded.min.js" crc="4199123654" seo="true" mt="1455824803000"/>
+    <file name="jquery-ui-1.10.3.custom.min.js" crc="4174729078" seo="true" mt="1455824803000"/>
+    <file name="start.js" crc="181016414" seo="true" mt="1455824803000"/>
+    <file name="video.js" crc="480668297" seo="true" mt="1455824803000"/>
+    <file name="fondo.mp4.mp4" crc="83199029" seo="true" mt="1523310684000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:nosotros:servicios:contacto"/>
+    <file name="museutils.js" crc="4190794036" ref="index:nosotros:servicios:contacto"/>
+    <file name="whatinput.js" crc="84559013" ref="index:nosotros:servicios:contacto"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:nosotros:servicios:contacto"/>
+    <file name="webpro.js" crc="488283310" ref="index:contacto"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:nosotros:servicios:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:servicios:contacto"/>
+    <file name="jquery.museresponsive.js" crc="408737887" ref="index:nosotros:servicios:contacto"/>
+    <file name="form_check.php" crc="430210585" ref="contacto"/>
+    <file name="form_throttle.php" crc="282343929" ref="contacto"/>
+    <file name="form_process.php" crc="339897355" ref="contacto"/>
+    <file name="form-u5453.php" crc="131553139" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="95c0562aa255a1bf3f28266d143e6ee4-crop-u360.jpg" crc="401400072" ref="index:nosotros:servicios:contacto"/>
+    <file name="u1468-grad.png" crc="299392679" ref="index"/>
+    <file name="u1472-grad.png" crc="146583829" ref="index"/>
+    <file name="u1472-r-grad.png" crc="3999598159" ref="index"/>
+    <file name="u1472-m-grad.png" crc="357251684" ref="index"/>
+    <file name="u1479-grad.png" crc="171933092" ref="index"/>
+    <file name="u1479-r-grad.png" crc="393677695" ref="index"/>
+    <file name="u1479-m-grad.png" crc="491863856" ref="index"/>
+    <file name="imagen1.jpg" crc="488171054" seo="true" ref="index:nosotros:servicios:contacto"/>
+    <file name="u280-6.png" crc="352223095" ref="index:nosotros:servicios:contacto"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:servicios:contacto"/>
+    <file name="globo-mundo-tecnologico-futuro-crop-u248.jpg" crc="4132575190" ref="index"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u419.jpg" crc="4093592585" ref="index"/>
+    <file name="22565.jpg" crc="3800626834" seo="true" ref="index"/>
+    <file name="u404-7.png" crc="3776143107" ref="index"/>
+    <file name="u981-grad.png" crc="4231755591" ref="index"/>
+    <file name="equipo.gif" crc="3917036735" seo="true" ref="index"/>
+    <file name="fondo-azul-exagonos-fotorecurso-crop-u472.jpg" crc="4014567990" ref="index"/>
+    <file name="u1631-7.png" crc="3957498262" ref="index"/>
+    <file name="nosotros3.jpg" crc="4222375806" seo="true" ref="index"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u482.jpg" crc="223491047" ref="index"/>
+    <file name="u1846-5.png" crc="3785796110" ref="index"/>
+    <file name="58b983c30e790.jpg" crc="342325897" seo="true" ref="index"/>
+    <file name="descarga (1).jpg" crc="4119441903" seo="true" ref="index"/>
+    <file name="descarga (2).jpg" crc="279293967" seo="true" ref="index"/>
+    <file name="descarga (3).jpg" crc="4105024090" seo="true" ref="index"/>
+    <file name="descarga (4).jpg" crc="41597571" seo="true" ref="index"/>
+    <file name="descarga (5).jpg" crc="103844559" seo="true" ref="index"/>
+    <file name="ogp-logo.png" crc="489888219" seo="true" ref="index"/>
+    <file name="descarga (7).jpg" crc="960104" seo="true" ref="index"/>
+    <file name="oracle-logo.jpg" crc="342927222" seo="true" ref="index"/>
+    <file name="descarga (8).jpg" crc="140193479" seo="true" ref="index"/>
+    <file name="u3643-4.png" crc="4066148837" ref="index"/>
+    <file name="fondo-azul-exagonos-fotorecurso-crop-u489.jpg" crc="53487100" ref="index"/>
+    <file name="u1851-5.png" crc="23824156" ref="index"/>
+    <file name="cable-rack-1-crop-u5579.png" crc="4186232948" ref="index"/>
+    <file name="descarga (1)2.jpg" crc="179617763" seo="true" ref="index"/>
+    <file name="descarga (2)2.jpg" crc="4154930884" seo="true" ref="index"/>
+    <file name="descarga.jpg" crc="4064169633" seo="true" ref="index"/>
+    <file name="ensamble-de-pc-1132x509.jpg" crc="3895952887" seo="true" ref="index"/>
+    <file name="images (1).jpg" crc="4179659690" seo="true" ref="index"/>
+    <file name="images (2).jpg" crc="145188983" seo="true" ref="index"/>
+    <file name="images (3).jpg" crc="3915552562" seo="true" ref="index"/>
+    <file name="images.jpg" crc="283671164" seo="true" ref="index"/>
+    <file name="mantenimiento-computadores-bogota.jpg" crc="82136774" seo="true" ref="index"/>
+    <file name="cable-rack-160x45.png" crc="177774056" seo="true" ref="index"/>
+    <file name="descarga (2)-crop-u5753.jpg" crc="3952205075" ref="index"/>
+    <file name="ensamble-de-pc-1132x509-crop-u5793.jpg" crc="3946488757" ref="index"/>
+    <file name="images (2)-crop-u5833.jpg" crc="214173320" ref="index"/>
+    <file name="images (3)-crop-u5853.jpg" crc="454607730" ref="index"/>
+    <file name="images-crop-u5873.jpg" crc="3975685842" ref="index"/>
+    <file name="mantenimiento-computadores-bogota66x45.jpg" crc="4011784687" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u5231-6.png" crc="3944255037" ref="index:nosotros:servicios:contacto"/>
+    <file name="u5232-grad.png" crc="54427216" ref="index"/>
+    <file name="u5232-m-grad.png" crc="4138137782" ref="index"/>
+    <file name="95c0562aa255a1bf3f28266d143e6ee4-crop-u5221.jpg" crc="3889754170" ref="index:nosotros:servicios:contacto"/>
+    <file name="u5223-4.png" crc="3807713251" ref="index:nosotros:servicios:contacto"/>
+    <file name="descarga (3)-u5225.png" crc="42128790" ref="index:nosotros:servicios:contacto"/>
+    <file name="img_como_moderar_comentarios_en_instagram_44445_600.jpg" crc="78025524" seo="true" ref="index:nosotros:servicios:contacto"/>
+    <file name="twitter.jpg" crc="4268636156" seo="true" ref="index:nosotros:servicios:contacto"/>
+    <file name="iceland-2111811_1920.jpg" crc="61050162" ref="index:nosotros:servicios:contacto"/>
+    <file name="globo-mundo-tecnologico-futuro-crop-u2482.jpg" crc="4247309202" ref="index"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u4192.jpg" crc="438003877" ref="index"/>
+    <file name="u404-72.png" crc="3963384108" ref="index"/>
+    <file name="fondo-azul-exagonos-fotorecurso-crop-u4722.jpg" crc="3798443258" ref="index"/>
+    <file name="u1631-72.png" crc="4176286109" ref="index"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u4822.jpg" crc="282913116" ref="index"/>
+    <file name="u1846-52.png" crc="350163050" ref="index"/>
+    <file name="u3643-42.png" crc="7762896" ref="index"/>
+    <file name="fondo-azul-exagonos-fotorecurso-crop-u4892.jpg" crc="327780039" ref="index"/>
+    <file name="cable-rack-1-crop-u55792.png" crc="4186232948" ref="index"/>
+    <file name="descarga (2)-crop-u57532.jpg" crc="3952205075" ref="index"/>
+    <file name="ensamble-de-pc-1132x509-crop-u57932.jpg" crc="3946488757" ref="index"/>
+    <file name="images (2)-crop-u58332.jpg" crc="214173320" ref="index"/>
+    <file name="images (3)-crop-u58532.jpg" crc="454607730" ref="index"/>
+    <file name="images-crop-u58732.jpg" crc="3975685842" ref="index"/>
+    <file name="u1468-grad2.png" crc="21849870" ref="index"/>
+    <file name="u1472-grad2.png" crc="301607530" ref="index"/>
+    <file name="u1472-r-grad2.png" crc="4024139760" ref="index"/>
+    <file name="u1472-m-grad2.png" crc="4233474499" ref="index"/>
+    <file name="u981-grad2.png" crc="327796338" ref="index"/>
+    <file name="u1851-52.png" crc="225358336" ref="index"/>
+    <file name="u5232-grad2.png" crc="313689137" ref="index"/>
+    <file name="u5232-m-grad2.png" crc="3935948953" ref="index"/>
+    <file name="descarga (3)2.jpg" crc="504987213" seo="true" ref="index:nosotros:servicios:contacto"/>
+    <file name="trabajaconnosotros-crop-u3815.jpg" crc="3992979156" ref="nosotros"/>
+    <file name="u3837-4.png" crc="4020341973" ref="nosotros"/>
+    <file name="u3936-12.png" crc="3872741919" ref="nosotros"/>
+    <file name="u3942-6.png" crc="4199541224" ref="nosotros"/>
+    <file name="ohiuho.png" crc="4062679295" seo="true" ref="nosotros"/>
+    <file name="fondo-azul-exagonos-fotorecurso-crop-u3974.jpg" crc="3935731386" ref="nosotros"/>
+    <file name="u3961-6.png" crc="382963670" ref="nosotros"/>
+    <file name="hghkhlhlo.jpg" crc="4004235688" seo="true" ref="nosotros"/>
+    <file name="trabajaconnosotros-crop-u38152.jpg" crc="3843547818" ref="nosotros"/>
+    <file name="u3837-42.png" crc="139928447" ref="nosotros"/>
+    <file name="u3936-122.png" crc="4215001215" ref="nosotros"/>
+    <file name="u3942-62.png" crc="4114122226" ref="nosotros"/>
+    <file name="fondo-azul-exagonos-fotorecurso-crop-u39742.jpg" crc="432821406" ref="nosotros"/>
+    <file name="u3961-62.png" crc="494046924" ref="nosotros"/>
+    <file name="especializacion-gerencia-del-servicio-presencial (1)-crop-u4102.jpg" crc="487453542" ref="servicios"/>
+    <file name="u5432-4.png" crc="4292678311" ref="servicios"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u4223.jpg" crc="4242691629" ref="servicios"/>
+    <file name="support-300x300.png" crc="5282376" seo="true" ref="servicios"/>
+    <file name="descarga (4)-crop-u4251.jpg" crc="3937641953" ref="servicios"/>
+    <file name="descarga (5)2.jpg" crc="105855699" seo="true" ref="servicios"/>
+    <file name="descarga (6)-u4283.png" crc="226583489" ref="servicios"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u4302.jpg" crc="4089429720" ref="servicios"/>
+    <file name="especializacion-gerencia-del-servicio-presencial-crop-u4092.jpg" crc="500893024" ref="servicios"/>
+    <file name="especializacion-gerencia-del-servicio-presencial (1)-crop-u41022.jpg" crc="433051774" ref="servicios"/>
+    <file name="u5432-42.png" crc="349477719" ref="servicios"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u42232.jpg" crc="535687477" ref="servicios"/>
+    <file name="descarga (4)-crop-u42512.jpg" crc="3936464936" ref="servicios"/>
+    <file name="descarga (6).jpg" crc="149949165" seo="true" ref="servicios"/>
+    <file name="fondos-de-madera-blancos-de-la-textura-para-su-diseño-74750303-crop-u43022.jpg" crc="286393091" ref="servicios"/>
+    <file name="especializacion-gerencia-del-servicio-presencial-crop-u40922.jpg" crc="424204063" ref="servicios"/>
+    <file name="contact_sp.jpg" crc="83033753" seo="true" ref="contacto"/>
+    <file name="u5455-17.png" crc="495309709" ref="contacto"/>
+    <file name="u5455-17-r.png" crc="3858237284" ref="contacto"/>
+    <file name="u5455-17-m.png" crc="499379816" ref="contacto"/>
+    <file name="u5455-17-fs.png" crc="370142969" ref="contacto"/>
+    <file name="contact_sp932x292.jpg" crc="4107561596" seo="true" ref="contacto"/>
+    <file name="u5455-172.png" crc="495309709" ref="contacto"/>
+    <file name="u5455-17-r2.png" crc="3858237284" ref="contacto"/>
+    <file name="u5455-17-m2.png" crc="499379816" ref="contacto"/>
+    <file name="u5455-17-fs2.png" crc="370142969" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="4233482027" seo="true" mt="1523325396165" redirect="true"/>
+  <file name="nosotros.html" crc="3792139425" seo="true" mt="1523325399226" redirect="true"/>
+  <file name="servicios.html" crc="370253666" seo="true" mt="1523325400700" redirect="true"/>
+  <file name="contacto.html" crc="407207768" seo="true" mt="1523325402656" redirect="true"/>
+</manifest>
