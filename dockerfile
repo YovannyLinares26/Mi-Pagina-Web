@@ -1,3 +1,3 @@
 FROM nginx:latest
 
-COPY [".","/usr/share/ubuntu/html/miPaginaWeb" ]
+COPY ["." , "/usr/share/nginx/html/miPaginaWeb" ]
